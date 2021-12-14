@@ -1,3 +1,8 @@
+# Adding that will not be pushed to Github Repository.
+app.py
+climate_analysis.ipynb
+SQLite_Practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
